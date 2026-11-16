@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Aditya Dwivedi 👋
 
-<!--
-**adityaadwivedi/adityaadwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Data Scientist | Healthcare & Commercial Analytics
 
-Here are some ideas to get you started:
+Senior Data Scientist with 3+ years of experience delivering
+commercial analytics and data science solutions across
+pharmaceutical and healthcare organizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Areas of Expertise
+
+- Healthcare Analytics
+- Commercial Analytics
+- Patient Journey Analytics
+- Line-of-Therapy Analytics
+- Predictive Analytics
+- Customer & HCP Targeting
+- Market Sizing & GTM Analytics
+- Machine Learning
+
+## 🛠️ Technical Skills
+
+Python | SQL | Databricks | PySpark | Pandas | NumPy
+Azure DevOps | Git | Machine Learning | Data Analytics
+
+## 📊 Domain Experience
+
+- Oncology
+- Respiratory / Asthma
+- Real-World Evidence
+- Pharmaceutical Commercial Analytics
+
+## 🚀 Featured Projects
+
+Coming soon...
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/adityadwivedi07)
