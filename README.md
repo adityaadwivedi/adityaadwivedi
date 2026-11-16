@@ -29,10 +29,6 @@ Azure DevOps | Git | Machine Learning | Data Analytics
 - Real-World Evidence
 - Pharmaceutical Commercial Analytics
 
-## 🚀 Featured Projects
-
-Coming soon...
-
 ## 🔗 Connect With Me
 
 [LinkedIn](https://linkedin.com/in/adityadwivedi07)
