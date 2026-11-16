@@ -1,4 +1,4 @@
-# Hi, I'm Aditya Dwivedi 👋
+# Hi, I'm Aditya Dwivedi
 
 ### Senior Data Scientist | Healthcare & Commercial Analytics
 
